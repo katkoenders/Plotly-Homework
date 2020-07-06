@@ -76,7 +76,5 @@ Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly 
 - - -
 
 © 2019 Trilogy Education Services
-=======
-# Plotly-Homework
-Analyzing data of microbial species. Visualizations displayed OTU's (operational taxonomic units) for each individual. Demographic information for each individual was also given. 
->>>>>>> 429d8217a8f021d15e5007f6f65f1694c32af510
+
+
