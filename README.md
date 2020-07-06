@@ -1,4 +1,4 @@
 Description of Project
-Technology Used
+<br>Technology Used
 Process
 Contributors
