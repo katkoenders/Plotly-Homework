@@ -8,3 +8,4 @@ Description of Project
 <br>Process
 
 <br>Contributors
+<br>Katrina Koenders was the sole contributor for this project. 
