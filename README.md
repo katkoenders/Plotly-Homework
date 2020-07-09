@@ -5,11 +5,11 @@ Introduction
 
 Process
 
-<br>Technology Used
+Technology Used
 <br>-Javascript
 <br>-HTML
 
+Conclusion
 
-
-<br>Contributors
+Contributors
 <br>Katrina Koenders was the sole contributor for this project. 
