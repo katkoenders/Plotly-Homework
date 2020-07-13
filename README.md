@@ -16,6 +16,7 @@ Analyzing data of microbial species. Vizualizations displayed OTU's (operational
 * HTML
 
 # Conclusion
+When the code is running a website is able to come up with the data displayed. The data is displayed using a horizontal bar chart, a bubble chart, and sample metadata. The website is able to update when a new sample was selected. 
 
 # Contributors
 Katrina Koenders was the sole contributor for this project. 
