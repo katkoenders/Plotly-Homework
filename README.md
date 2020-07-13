@@ -1,15 +1,15 @@
-Plot.ly Homework - Belly Button Biodiversity
+# Plot.ly Homework - Belly Button Biodiversity
 
-Introduction
+# Introduction
 <br>Analyzing data of microbial species. Vizualizations displayed OTU's (operational taxonomic units) for each individual. Demographic information for each individual was also given. 
 
-Process
+# Process
 
-Technology Used
+# Technology Used
 <br>-Javascript
 <br>-HTML
 
-Conclusion
+# Conclusion
 
-Contributors
+# Contributors
 <br>Katrina Koenders was the sole contributor for this project. 
