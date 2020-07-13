@@ -17,7 +17,8 @@ Analyzing data of microbial species. Vizualizations displayed OTU's (operational
 
 # Conclusion
 When the code is running a website is able to come up with the data displayed. The data is displayed using a horizontal bar chart, a bubble chart, and sample metadata. The website is able to update when a new sample was selected. 
-![Belly Button Biodiversity Dashboard](C:\Users\16127\OneDrive\Pictures\Screenshots\2020-07-13 (1).png)
+
+![image](https://user-images.githubusercontent.com/57878641/87359212-fce01c00-c52c-11ea-9647-0650ababa5ba.png)
 
 # Contributors
 Katrina Koenders was the sole contributor for this project. 
