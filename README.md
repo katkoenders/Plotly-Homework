@@ -6,8 +6,8 @@
 # Process
 
 # Technology Used
-<br>-Javascript
-<br>-HTML
+* [Javascript]
+* [HTML]
 
 # Conclusion
 
